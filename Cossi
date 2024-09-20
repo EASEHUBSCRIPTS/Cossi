@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EASEHUBSCRIPTS/Cosi/refs/heads/main/Cosi"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/z9vRdH8s"))()
